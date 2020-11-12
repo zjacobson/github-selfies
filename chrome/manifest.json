@@ -37,7 +37,7 @@
       "css": [
         "selfie.css"
       ],
-      "matches": ["*://github.com/*"]
+      "matches": ["*://github.com/*", "*://github.braintreeps.com/*"]
     }
   ],
 
